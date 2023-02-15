@@ -1,5 +1,13 @@
 .sidebar {
-  height: 50px;
-  width: 100%;
-  color: maroon;
+  background-color: maroon;
+  /* height: 50px;
+  width: 100%; */
+  background: rgb(5, 68, 104);
+  position: absolute;
+  top: 50px;
+  left: 0;
+  width: 225px;
+  height: 100%;
+  padding: 20px 0;
+  transition: all 0.5s ease;
 }
